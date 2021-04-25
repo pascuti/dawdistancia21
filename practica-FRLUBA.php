@@ -48,4 +48,18 @@ function genera_token ($user, $profile)
 	return $token;
 }
 
+/**
+*Nueva funcion para probar git.
+*
+* Esta funcion es para probar que sincroniza git
+*
+* @author Francisco Jose Luna Barsotti
+* @version 1.0.0
+*/
+function prueba_git ()
+{
+	/* Aqui estaria el codigo de la funcion */
+
+}
+
 ?>
